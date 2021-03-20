@@ -4,6 +4,7 @@ import HomeScreen from "./screens/HomeScreen";
 import { Container } from "react-bootstrap";
 import {BrowserRouter as Router, Route} from "react-router-dom";
 import ProductScreen from "./screens/ProductScreen";
+import CoursesScreen from "./components/courses/CoursesScreen";
 
 const App = () => {
   return (

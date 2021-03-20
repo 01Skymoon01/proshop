@@ -4,13 +4,13 @@ const products =  require('./data/products')
 const app = express()
 
 
-app.get('/product', function (req, res, next) {
+app.get('/products', function (req, res, next) {
     res.json(products);
 });
 
 app.get('/product/:id', function (req, res, next) {
     const product = products.filter((p) => p._id=== req.params.id)
-    res.json(products);
+    res.json(product);
 });
 
 
