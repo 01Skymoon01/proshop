@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db1a4886-b2f3-491b-b816-cc57e7e5a4da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/config/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/orderModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/productModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/userModel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <workItem from="1615820851532" duration="7988000" />
       <workItem from="1615830192287" duration="1003000" />
       <workItem from="1616061656216" duration="12586000" />
-      <workItem from="1616189842746" duration="35179000" />
+      <workItem from="1616189842746" duration="36425000" />
     </task>
     <servers />
   </component>
